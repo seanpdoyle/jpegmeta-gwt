@@ -1,6 +1,17 @@
+.DS_STORE
 *.class
+*~
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Maven
+target/
+
+# Eclipse
+.project
+.settings/
+.metadata/
+.classpath
