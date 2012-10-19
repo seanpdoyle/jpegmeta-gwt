@@ -1,4 +1,4 @@
-jpegmeta-gwt
-============
+# jpegmeta-gwt
+***
 
-port of jpegmeta.js to Google Web Toolkit
+GWT port of [jsjpegmeta](http://code.google.com/p/jsjpegmeta/)
